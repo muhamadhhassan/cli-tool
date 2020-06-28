@@ -1,0 +1,12 @@
+{
+    "autoload": {
+      "psr-4": {
+        "MiniTool\\": "lib/",
+        "App\\": "app/",
+        "Tests\\": "tests/"
+      }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
